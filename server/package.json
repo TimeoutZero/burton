@@ -1,0 +1,26 @@
+{
+  "name": "burton",
+  "version": "1.0.0",
+  "description": "Release notes generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimeoutZero/burton.git"
+  },
+  "keywords": [
+    "release",
+    "notes",
+    "generator",
+    "release",
+    "notes"
+  ],
+  "author": "Lucas Martins - TimeoutZero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimeoutZero/burton/issues"
+  },
+  "homepage": "https://github.com/TimeoutZero/burton#readme"
+}
