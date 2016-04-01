@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/TimeoutZero/burton/issues"
   },
-  "homepage": "https://github.com/TimeoutZero/burton#readme"
+  "homepage": "https://github.com/TimeoutZero/burton#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
