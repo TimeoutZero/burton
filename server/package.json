@@ -25,6 +25,7 @@
   "homepage": "https://github.com/TimeoutZero/burton#readme",
   "dependencies": {
     "express": "^4.13.4",
+    "moment": "^2.12.0",
     "octonode": "^0.7.5",
     "q": "^1.4.1",
     "require-all": "^2.0.0",
